@@ -1,0 +1,32 @@
+#!/bin/csh
+
+ssh -o "StrictHostKeyChecking no" linux01 date
+ssh -o "StrictHostKeyChecking no" linux02 date
+ssh -o "StrictHostKeyChecking no" linux03 date
+ssh -o "StrictHostKeyChecking no" linux04 date
+ssh -o "StrictHostKeyChecking no" linux05 date
+ssh -o "StrictHostKeyChecking no" linux06 date
+ssh -o "StrictHostKeyChecking no" linux07 date
+ssh -o "StrictHostKeyChecking no" linux08 date
+ssh -o "StrictHostKeyChecking no" linux09 date
+ssh -o "StrictHostKeyChecking no" linux10 date
+ssh -o "StrictHostKeyChecking no" linux11 date
+ssh -o "StrictHostKeyChecking no" linux12 date
+ssh -o "StrictHostKeyChecking no" linux13 date
+ssh -o "StrictHostKeyChecking no" linux14 date
+ssh -o "StrictHostKeyChecking no" linux15 date
+ssh -o "StrictHostKeyChecking no" linux16 date
+ssh -o "StrictHostKeyChecking no" linux17 date
+ssh -o "StrictHostKeyChecking no" linux18 date
+ssh -o "StrictHostKeyChecking no" linux19 date
+ssh -o "StrictHostKeyChecking no" linux20 date
+ssh -o "StrictHostKeyChecking no" linux21 date
+ssh -o "StrictHostKeyChecking no" linux22 date
+ssh -o "StrictHostKeyChecking no" linux23 date
+ssh -o "StrictHostKeyChecking no" linux24 date
+ssh -o "StrictHostKeyChecking no" linux25 date
+ssh -o "StrictHostKeyChecking no" linux26 date
+ssh -o "StrictHostKeyChecking no" linux27 date
+ssh -o "StrictHostKeyChecking no" linux28 date
+ssh -o "StrictHostKeyChecking no" linux29 date
+ssh -o "StrictHostKeyChecking no" linux30 date
